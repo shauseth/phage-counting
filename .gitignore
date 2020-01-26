@@ -4,8 +4,8 @@ data/
 metadata/
 plates/
 raw_data/
-data_green/
 data_all.zip
 data_green.zip
 data_blue.zip
 data_red.zip
+data_white.zip
